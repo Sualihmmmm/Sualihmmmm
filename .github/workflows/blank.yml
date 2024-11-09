@@ -10,7 +10,7 @@ on:
   pull_request:
     branchessualih: [ "main" ]
 
-  # Allows you to run this workflow manually from the Actions tab
+  # Allows you to run this workflow manually from the Actions tab3e070e6d6d9bc056679d5e967b82f294580896f6
   workflow_dispatch:https://github.com/Sualihmmmm/Muslim-s.git
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
